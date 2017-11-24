@@ -7,4 +7,8 @@
     <string name="rbm">Male</string>
     <string name="rbf">Female</string>
     <string name="sendBTN">Send Back</string>
+    <string name="welcomeback">Welocme back %1$s, %2$s, %3$s</string>
+    <string name="again">Again...</string>
+
+
 </resources>

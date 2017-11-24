@@ -15,7 +15,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:id="@+id/textView" />
+        android:id="@+id/TVmain" />
 
     <Button
         android:id="@+id/btnRegister"
@@ -23,7 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="85dp"
         android:text="@string/bottonText"
-        android:layout_below="@+id/textView"
+        android:onClick="RegisterInfo"
+        android:layout_below="@+id/TVmain"
         android:layout_centerHorizontal="true" />
 
     <View
